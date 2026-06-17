@@ -12,8 +12,6 @@ I design the architecture and build AI-native — turning an idea into a real, t
 
 - **[BPDoctor](https://github.com/itsribbZ/BPDoctor)** — UE5 editor plugin that catches 39 silent Blueprint/AnimBP failures the compiler won't — 7 one-click fixes, SARIF CI/CD commandlet. C++.
 
-- **[Atelier](https://github.com/itsribbZ/Atelier)** — Full-stack artist-commission marketplace. Next.js, TypeScript, Supabase (Postgres + RLS), Stripe payments.
-
 ### Stack
 `Python` · `C++ (Unreal Engine 5)` · `TypeScript / Next.js` · `Claude API + MCP` · `SQLite` · `Docker`
 
